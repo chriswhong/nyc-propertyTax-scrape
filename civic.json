@@ -1,0 +1,13 @@
+{
+        "status": "Complete",
+        "thumbnailUrl": "http://www.rightinginjustice.com/media/2011/01/nyc-buildings.jpg",
+        "geography": "NYC",
+        "type":"Tool",
+        "needs": [
+        ],
+        "categories": [
+                {"category": "Land Use"},
+                {"category": "Property Tax"},
+                {"category": "Scraped Data"}
+        ]
+}
